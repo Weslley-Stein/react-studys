@@ -1,0 +1,10 @@
+.main-container--fc{
+    width: 25em;
+    height: 20em;
+    background-image: url(fd6536a9e678866637af8819cb291850.jpg);
+    background-size: 25em;
+    background-position-x: 30%;
+    background-position-y: 30%;
+    background-repeat: no-repeat;
+    border-radius: 2em 2em 0 0;
+  }

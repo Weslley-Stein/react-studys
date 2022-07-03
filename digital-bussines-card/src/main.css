@@ -1,0 +1,39 @@
+.main-container--sc{
+    background-color:#1A1B21;
+    width: 25em;
+    border: 0.1px solid transparent;
+}  
+  
+.main-container--introduction{
+    margin-top: 2em;
+    text-align: center;
+    line-height: 0.3em;
+}
+  
+.main-container--introduction > h2{
+    color: #FFF;
+}
+  
+.main-container--introduction > h4 {
+    color:#F3BF99;
+}
+  
+.main-container--introduction > p {
+    color: #FFF;
+}
+  
+.main-container--contact{
+    display: flex;
+    justify-content: space-around;
+    margin: 2em 0;
+}
+
+.main-container--information{
+    margin: 0 5em;
+    color: #FFF;
+}
+  
+.main-container--information > p {
+    font-size: 0.8em;
+}
+  

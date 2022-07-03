@@ -1,0 +1,10 @@
+.nav-component{
+    display: flex;
+    box-shadow: 0.1em 0.2em 0.2em 0.1em gray;
+}
+
+.nav-component > img {
+    width: 10em;
+    height: 10em;
+    margin-left: 5em;
+}

@@ -1,0 +1,41 @@
+.main-container--tc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25em;
+    height: 5em;
+    background-color: #161619;
+    border-radius: 0 0 1em 1em;
+}
+  
+.main-container--tc > a{
+    margin: 0 1em;
+}
+  
+.main-container--emailbtn,.main-container--linkedinbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 8.5em;
+    height: 2.5em;
+    border-radius: 0.3em;
+    font-size: 1em;
+    background-color: none;
+    background: none;
+    border: none;
+}
+  
+.main-container--emailbtn > img, .main-container--linkedinbtn > img{
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 0.8em;
+}
+  
+.main-container--emailbtn{
+    background-color: #FFF;
+}
+  
+.main-container--linkedinbtn{
+    background-color: #0077b5;
+    color: #FFF;
+}
